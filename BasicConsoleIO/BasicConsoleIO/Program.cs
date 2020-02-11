@@ -12,6 +12,10 @@ namespace BasicConsoleIO
         {
             Console.WriteLine("***** Basic Console I/O *****");
             GetUserData();
+            Console.WriteLine();
+            DisplayMessage();
+
+            // Wait for user to press the Enter key before shutting down.
             Console.ReadLine();
         }
 
@@ -35,6 +39,15 @@ namespace BasicConsoleIO
             Console.ForegroundColor = prevColor;
         }
 
+        static void DisplayMessage()
+        {
+            // Using string.Format() to format a string literal.
+            string userMessage = string.Format("100000 in hex is {0:x}",
+                100000);
 
+            // You need to reference PresentationFrameworl.dll
+            // in order to compile this line of code!
+            System.Windows.MessageBox.Show(userMessage);
+        }
     }
 }
