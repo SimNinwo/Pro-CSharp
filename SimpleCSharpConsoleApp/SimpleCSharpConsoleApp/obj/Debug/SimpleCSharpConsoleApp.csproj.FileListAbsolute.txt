@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.pdb
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.exe
+C:\Users\user\Desktop\C# Projects\ProCSharp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.pdb

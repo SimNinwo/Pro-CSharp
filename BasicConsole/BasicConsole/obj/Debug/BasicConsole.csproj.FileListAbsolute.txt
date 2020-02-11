@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\bin\Debug\BasicConsole.exe.config
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\bin\Debug\BasicConsole.exe
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\bin\Debug\BasicConsole.pdb
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\obj\Debug\BasicConsole.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\obj\Debug\BasicConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\obj\Debug\BasicConsole.exe
+C:\Users\user\Desktop\C# Projects\ProCSharp\BasicConsole\BasicConsole\obj\Debug\BasicConsole.pdb
