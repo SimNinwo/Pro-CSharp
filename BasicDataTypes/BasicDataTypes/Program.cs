@@ -16,6 +16,7 @@ namespace BasicDataTypes
 
             NewingdataTypes();
 
+            DigitSeparators();
             // Wait for user to press the Enter key before shutting down.
             Console.ReadLine();
         }
@@ -60,6 +61,21 @@ namespace BasicDataTypes
             DateTime dt = new DateTime();   // Set to 1/1/0001 12:00:00 AM
             Console.WriteLine("{0}, {1}, {2}, {3}", b, i, d, dt);
             Console.WriteLine();
+        }
+
+        static void DigitSeparators()
+        {
+            Console.WriteLine("=> Use Digit Separators:");
+            Console.Write("Integer:");
+            Console.WriteLine(123_456);
+            Console.Write("Long:");
+            Console.WriteLine(123_456_789L);
+            Console.Write("Float:");
+            Console.WriteLine(123_456.1234F);
+            Console.Write("Double:");
+            Console.WriteLine(123_456.12);
+            Console.Write("Decimal:");
+            Console.WriteLine(123_456.12M);
         }
     }
 }
