@@ -17,6 +17,8 @@ namespace BasicDataTypes
             NewingdataTypes();
 
             DigitSeparators();
+
+            StringInterpolation();
             // Wait for user to press the Enter key before shutting down.
             Console.ReadLine();
         }
@@ -76,6 +78,25 @@ namespace BasicDataTypes
             Console.WriteLine(123_456.12);
             Console.Write("Decimal:");
             Console.WriteLine(123_456.12M);
+
+            Console.WriteLine();
+        }
+
+        static void StringInterpolation()
+        {
+            // Some local variables we will plug into our larger string
+            int age = 4;
+            string name = "Soren";
+
+            // Using curly bracket syntax.
+            string greeting = string.Format("Hello {0} you are {1} years old.",
+                name.ToUpper(), age);
+
+            // Using string interpolation
+            string greeting2 = $"Hello {name} you are {age} years old.";
+            Console.WriteLine(greeting);
+            Console.WriteLine(greeting2);
+            Console.WriteLine();
         }
     }
 }
