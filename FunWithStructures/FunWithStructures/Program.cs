@@ -31,6 +31,13 @@ namespace FunWithStructures
             public int X;
             public int Y;
 
+            // A custom constructor.
+            public Point(int XPos, int YPos)
+            {
+                X = XPos;
+                Y = YPos;
+            }
+
             // Add 1 to the (X, Y) position.
             public void Increment()
             {
