@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\PLINQDataPRocessingWithCancellation\PLINQDataPRocessingWithCancellation\bin\Debug\PLINQDataPRocessingWithCancellation.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\PLINQDataPRocessingWithCancellation\PLINQDataPRocessingWithCancellation\bin\Debug\PLINQDataPRocessingWithCancellation.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\PLINQDataPRocessingWithCancellation\PLINQDataPRocessingWithCancellation\bin\Debug\PLINQDataPRocessingWithCancellation.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\PLINQDataPRocessingWithCancellation\PLINQDataPRocessingWithCancellation\obj\Debug\PLINQDataPRocessingWithCancellation.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\PLINQDataPRocessingWithCancellation\PLINQDataPRocessingWithCancellation\obj\Debug\PLINQDataPRocessingWithCancellation.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\PLINQDataPRocessingWithCancellation\PLINQDataPRocessingWithCancellation\obj\Debug\PLINQDataPRocessingWithCancellation.pdb

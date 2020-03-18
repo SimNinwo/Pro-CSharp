@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

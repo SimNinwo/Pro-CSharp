@@ -1,0 +1,7 @@
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.exe.config
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.pdb
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.csproj.CoreCompileInputs.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.pdb

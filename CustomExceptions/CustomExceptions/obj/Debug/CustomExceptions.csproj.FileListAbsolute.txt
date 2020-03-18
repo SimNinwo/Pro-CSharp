@@ -1,0 +1,6 @@
+C:\Users\Simeon.olorunninwo\source\repos\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\Simeon.olorunninwo\source\repos\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\Users\Simeon.olorunninwo\source\repos\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\Simeon.olorunninwo\source\repos\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojAssemblyReference.cache
+C:\Users\Simeon.olorunninwo\source\repos\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\Users\Simeon.olorunninwo\source\repos\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb

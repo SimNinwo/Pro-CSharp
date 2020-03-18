@@ -1,0 +1,7 @@
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.exe.config
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.pdb
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.csproj.CoreCompileInputs.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.pdb

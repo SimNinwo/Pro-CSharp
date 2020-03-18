@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb

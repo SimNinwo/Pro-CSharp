@@ -1,0 +1,6 @@
+C:\Users\Simeon.olorunninwo\source\repos\Projects\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+C:\Users\Simeon.olorunninwo\source\repos\Projects\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+C:\Users\Simeon.olorunninwo\source\repos\Projects\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+C:\Users\Simeon.olorunninwo\source\repos\Projects\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojAssemblyReference.cache
+C:\Users\Simeon.olorunninwo\source\repos\Projects\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+C:\Users\Simeon.olorunninwo\source\repos\Projects\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

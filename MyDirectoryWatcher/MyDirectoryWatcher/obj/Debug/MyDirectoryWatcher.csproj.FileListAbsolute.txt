@@ -1,0 +1,7 @@
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.exe.config
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.pdb
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.pdb

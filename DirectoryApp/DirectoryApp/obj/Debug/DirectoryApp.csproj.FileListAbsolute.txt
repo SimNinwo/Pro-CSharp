@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb

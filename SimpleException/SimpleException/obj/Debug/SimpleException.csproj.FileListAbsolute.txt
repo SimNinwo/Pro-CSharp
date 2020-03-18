@@ -1,0 +1,6 @@
+C:\Users\Simeon.olorunninwo\source\repos\Pro-CSharp\SimpleException\SimpleException\obj\Debug\SimpleException.csprojAssemblyReference.cache
+C:\Users\Simeon.olorunninwo\source\repos\Pro-CSharp\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\Users\Simeon.olorunninwo\source\repos\Pro-CSharp\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\Simeon.olorunninwo\source\repos\Pro-CSharp\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\Users\Simeon.olorunninwo\source\repos\Pro-CSharp\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\Simeon.olorunninwo\source\repos\Pro-CSharp\SimpleException\SimpleException\obj\Debug\SimpleException.pdb

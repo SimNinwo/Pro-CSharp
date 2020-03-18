@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.pdb

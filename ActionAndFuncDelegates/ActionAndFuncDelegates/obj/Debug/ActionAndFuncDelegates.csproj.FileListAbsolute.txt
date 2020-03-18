@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

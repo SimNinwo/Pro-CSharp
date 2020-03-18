@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb
