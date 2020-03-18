@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

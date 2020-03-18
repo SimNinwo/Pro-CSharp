@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.pdb

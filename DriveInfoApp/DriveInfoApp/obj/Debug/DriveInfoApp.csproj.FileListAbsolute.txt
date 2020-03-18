@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.pdb

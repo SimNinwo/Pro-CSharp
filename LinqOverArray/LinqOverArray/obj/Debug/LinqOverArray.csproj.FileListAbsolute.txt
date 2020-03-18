@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.pdb

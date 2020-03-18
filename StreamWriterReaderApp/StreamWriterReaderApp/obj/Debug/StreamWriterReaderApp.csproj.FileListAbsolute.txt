@@ -1,0 +1,7 @@
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe.config
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.pdb
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.exe
+C:\Users\simeon.olorunninwo\Desktop\Simeon Olorunninwo\source\repos\Pro-CSharp\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.pdb

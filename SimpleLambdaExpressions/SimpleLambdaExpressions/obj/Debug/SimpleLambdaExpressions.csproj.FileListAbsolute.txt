@@ -1,0 +1,6 @@
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojAssemblyReference.cache
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+C:\Users\simeon.olorunninwo\Desktop\New folder\source\repos\Pro-CSharp\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Simeon.olorunninwo\source\repos\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\Users\Simeon.olorunninwo\source\repos\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Users\Simeon.olorunninwo\source\repos\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Users\Simeon.olorunninwo\source\repos\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+C:\Users\Simeon.olorunninwo\source\repos\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Users\Simeon.olorunninwo\source\repos\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
