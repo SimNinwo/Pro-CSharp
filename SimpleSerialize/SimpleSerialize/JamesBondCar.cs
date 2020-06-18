@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace SimpleSerialize
 {
-    [Serializable]
+    [Serializable,
+        XmlRoot(Namespace = "http://www.MyCompany.com")]
     public class JamesBondCar : Car
     {
         public bool canFly;
@@ -18,9 +20,6 @@ namespace SimpleSerialize
             canSubmerge = seaWorthy;
         }
         // XmlSerializer demands a default constructor.
-        public JamesBondCar()
-        {
-
-        }
+        public JamesBondCar() { }
     }
 }

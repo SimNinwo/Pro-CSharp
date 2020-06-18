@@ -52,7 +52,15 @@ namespace SimpleSerialize
 
         static void SaveListOfCarsAsBinary()
         {
-            // Save ArrayList object (myCar
+            // Save ArrayList object (myCars) as binary.
+            List<JamesBondCar> myCars = new List<JamesBondCar>();
+
+            BinaryFormatter binFormat = new BinaryFormatter();
+            using (Stream fStream = new FileStream("AllMyCars.dat",
+                FileMode.Create, FileAccess.Write, FileShare.None))
+            {
+                binFormat.Serialize(fStream, myCars);
+            }    
         }
         static void SaveAsXmlFormat(object objGraph, string fileName)
         {
